@@ -29,4 +29,4 @@ code .
 
 [MIT](https://github.com/yldzEmreOmer/kodluyoruzilkrepo/blob/main/LICENSE)
 
-![Proje Görseli](resim\Ekran Görüntüsü (31).png)
+![Proje Görseli](C:\Users\yldze\kodluyoruzilkrepo\resim\Ekran Görüntüsü (31).png)
